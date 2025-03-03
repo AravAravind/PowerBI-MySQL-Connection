@@ -1,3 +1,4 @@
+[📌 Click Here to View Documentation](https://aravaravind.github.io/PowerBI-MySQL-Connection/)
 # PowerBI-MySQL-Connection
 
 Power BI MySQL Connection – A step-by-step guide on connecting Power BI to a MySQL database. 🚀
