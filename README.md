@@ -43,6 +43,8 @@ Power BI MySQL Connection – A step-by-step guide on connecting Power BI to a M
 - Use the correct **MySQL Connector** version for compatibility  
 - If you encounter issues, check firewall settings and MySQL configuration  
 
-## Author  
-[Aravind R](https://linkedin.com/in/arav-r)  
+## Connect with Me
+
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arav-r)
+
 
