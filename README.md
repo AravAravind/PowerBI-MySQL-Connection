@@ -47,4 +47,10 @@ Power BI MySQL Connection – A step-by-step guide on connecting Power BI to a M
 
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arav-r)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Aravind-181717?style=for-the-badge&logo=github)](https://github.com/AravAravind)
+
+
+
+
+
 
